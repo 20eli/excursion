@@ -28,6 +28,8 @@ body {
 	font-size: 16px;
 }
 
-h4.copyright {
+.footer--copyright {
+	color: gray;
+	font-size: 21px;
 	text-align: right;
 }
